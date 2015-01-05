@@ -300,7 +300,9 @@ input.search-form:hover {
 .navbar-inverse .navbar-brand {
   font-size: 36px;
   line-height: 50px;
-  color: #fff;
+  color: #90353c;
+  
+
 }
 
 .navbar-inverse .navbar-nav > .active > a,
