@@ -12,34 +12,70 @@
   font-weight: normal;
   font-style: normal;
 }
+<<<<<<< HEAD
 
+=======
+@font-face {
+  font-family: 'Archistico';
+  src: url('../fonts/Archistico_Bold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+>>>>>>> 4ac98bb5b1c5f72f7db501a61235258a2560c96e
 @font-face {
   font-family: 'Rochester';
   src: url('../fonts/Rochester-Regular.otf');
   font-weight: normal;
   font-style: normal;
 }
+<<<<<<< HEAD
 
 
+=======
+@font-face {
+  font-family: 'Exotica';
+  src: url('../fonts/Exotica.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Western';
+  src: url('../fonts/Go 2 Old Western.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+>>>>>>> 4ac98bb5b1c5f72f7db501a61235258a2560c96e
 @font-face {
   font-family: 'Rustik';
   src: url('../fonts/Rustik.otf');
   font-weight: normal;
   font-style: normal;
 }
+<<<<<<< HEAD
 
 .arch {
   display: inline-block;
   font-family: Rustik;
   font-style: bold;
   font-weight: normal;
+=======
+.arch {
+  display: inline-block;
+  font-family: Rustik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+>>>>>>> 4ac98bb5b1c5f72f7db501a61235258a2560c96e
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: transparent;
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 4ac98bb5b1c5f72f7db501a61235258a2560c96e
 .fa {
   display: inline-block;
   font-family: FontAwesome;
