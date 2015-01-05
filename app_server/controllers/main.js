@@ -12,5 +12,5 @@ exports.catalog = function(req, res) {
 
 /*GET sponsorships page*/
 exports.sponsorships = function(req, res) {
-	res.render('index', { title: 'sponsorships'});
+	res.render('sponsorships', { title: 'sponsorships'});
 };
